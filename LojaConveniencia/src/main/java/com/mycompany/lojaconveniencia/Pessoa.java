@@ -9,6 +9,7 @@ public class Pessoa {
     private int documento;
     private int inscricao_Estadual;
     private Date data_Cadastro;
+    private int id_pessoa; //alteração
     
     public String nome;
     public int CEP; 
